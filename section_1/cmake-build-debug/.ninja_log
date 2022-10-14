@@ -1,0 +1,4 @@
+# ninja log v5
+1	537	6874652046028330	CMakeFiles/section_1.dir/main.cpp.obj	3bb82b86d4985b21
+9	1002	6874652050693319	CMakeFiles/section_1.dir/helpers.cpp.obj	e9954ae394cd6afc
+1002	1576	6874652056395116	section_1.exe	9c03f3b65b677926
