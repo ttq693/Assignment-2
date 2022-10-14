@@ -1,5 +1,5 @@
 # cs 700--Assignment 2
-Github: 
+Github: https://github.com/ttq693/Assignment-2
 Language standard: C++
 IDE: CLion IDE
 
